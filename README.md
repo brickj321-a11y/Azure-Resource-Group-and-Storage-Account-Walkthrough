@@ -1,4 +1,4 @@
-## Azure Storage Account File Upload Lab
+# Azure Storage Account File Upload Lab
 
 ## Project Summary
 This project demonstrates how to use Microsoft Azure to create a resource group, deploy a storage account, upload and edit a file, and verify the changes were made.
