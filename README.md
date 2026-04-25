@@ -33,4 +33,4 @@ Select Download, add it somewhere easy to find like yiour desktop. Verify that t
 
 ## Media
 
-(Screenshots will be added below)
+(Screenshots are in the files section.)
