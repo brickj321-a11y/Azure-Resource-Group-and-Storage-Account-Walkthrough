@@ -14,7 +14,7 @@ This project demonstrates how to use Microsoft Azure to create a resource group,
 Head over to "portal.azure.com" to either create an account or log into an existing one. You can make a free account or paid one, but a paid account will not be necessary for this project.
 
 ### Step 2: Create Resource Group
-On the left side of your screen, find the Resource Groups tab. Click it, and then find "create" and click that as well. Give it a name, something simple and easy to remember. Then click "review and create". A pop up window should appear saying "Resource Group Created." ![Resource Group] (RG Photo 1)
+On the left side of your screen, find the Resource Groups tab. Click it, and then find "create" and click that as well. Give it a name, something simple and easy to remember. Then click "review and create". A pop up window should appear saying "Resource Group Created."
 
 ### Step 3: Create Storage Account
 Return to the left hand side of the dashboard screen, find Storage Accounts. In the drop down menu next to Resource Group, select the one you just created. Give it a name, something with only lowercase letters and numbers and it must not already be taken. Select your region, for storage type select Azure Blob Storage, Standard Performance, for Redudancy select Locally Redundant Storage. Select "Review and Create", then "Create". Wait for deployment, once deployed, you should get a pop up telling you it was successful.
