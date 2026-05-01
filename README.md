@@ -12,7 +12,7 @@ This project demonstrates how to use Microsoft Azure to create a resource group,
 
 ### Step 1: Create Azure Account
 Head over to "portal.azure.com" to either create an account or log into an existing one. You can make a free account or paid one, but a paid account will not be necessary for this project.
-![Step 1 Screenshot](Photos/RGPhoto1.png)
+! [Step 1 Screenshot](Photos/RGPhoto1.png)
 ### Step 2: Create Resource Group
 On the left side of your screen, find the Resource Groups tab. Click it, and then find "create" and click that as well. Give it a name, something simple and easy to remember. Then click "review and create". A pop up window should appear saying "Resource Group Created."
 
